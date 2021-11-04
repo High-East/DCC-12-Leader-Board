@@ -1,8 +1,11 @@
-사쿠라_20210925071944.csv: ValueError
-호반우7_20210925071900.csv: ValueError
-고장_2.csv: KeyError
-고장_1.csv: KeyError
-00113|
+# DCC 12회차 Leader Board
+***Time: 2021/11/04 22:12***
+
+### Leader Board
+
+|#|Submission Name|Score(ARI)|
+|:---:|:---:|:---:|
+|1|맥북_2|0.00113|
 |2|애플워치_20211103121807|0.0|
 |3|맥북_1|-0.00071|
 |4|애플워치_first|-0.00226|
