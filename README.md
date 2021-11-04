@@ -1,4 +1,8 @@
-사쿠라_20210925071944.csv: Found input variables with inconsistent numbers of samples: [637, 4035]
 # DCC 6회차 Leader Board
-2021/11/03 22:02
-
+2021/11/04 21:28
+|#|Team Name|Score(ARI)|
+|:---:|:---:|:---:|
+|1|맥북_2|0.00113|
+|2|맥북_1|-0.00071|
+|3|애플워치_first|-0.00226|
+|4|애플워치_2|-0.00405|
