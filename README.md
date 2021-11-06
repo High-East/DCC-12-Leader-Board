@@ -1,5 +1,5 @@
 # DCC 12회차 Leader Board
-***Time: 2021/11/06 15:09***
+***Time: 2021/11/06 15:10***
 
 ### Leader Board
 
